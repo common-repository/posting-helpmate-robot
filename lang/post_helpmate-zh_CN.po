@@ -1,0 +1,142 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: itluren Posting Helpmate Robot\n"
+"POT-Creation-Date: 2013-05-15 09:18+0800\n"
+"PO-Revision-Date: 2013-05-15 09:18+0800\n"
+"Last-Translator: Rilun Chen <734500780@qq.com>\n"
+"Language-Team: www.itluren.com <734500780@qq.com>\n"
+"Language: 中文\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: I:\\xampp\\htdocs\\vivian\\wp-content\\plugins"
+"\\itluren_posting_helpmate\\\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: itluren_posting_helpmate_robot.php:90
+msgid "Updataed！"
+msgstr "已经保存！"
+
+#: itluren_posting_helpmate_robot.php:96
+msgid "Posting Helpmate Robot is developed by"
+msgstr "Posting Helpmate Robot由"
+
+#: itluren_posting_helpmate_robot.php:96
+msgid "."
+msgstr "独立开发，如有问题，请到www.itluren.com咨询"
+
+#: itluren_posting_helpmate_robot.php:100
+msgid "Categories IDs Set"
+msgstr "分类ID列表"
+
+#: itluren_posting_helpmate_robot.php:102
+msgid ""
+"Type category IDs.The system will set thumbnail and tags automatically if "
+"the category ID of the post being published is contained in this list."
+"<b>Note:Please ensure that two category IDs are separated by '||'. <br /"
+">Example:1||2||3||4||5||6</b>"
+msgstr ""
+"请输入分类ID。发布文章的时候，如果文章的分类包含在其中，将会自动设置缩略图和"
+"标签。<br /><b>注意：两个不同的分类ID用 || 隔开，例如：1||2||3||4||5||6</b>"
+
+#: itluren_posting_helpmate_robot.php:105
+msgid "Default Thumbnails Set"
+msgstr "默认特色图片"
+
+#: itluren_posting_helpmate_robot.php:107
+msgid ""
+"Type thumbnails IDs.The system will set the ID whose position in this list "
+"is identical with the position of category ID selected in Categories IDs Set "
+"list above when post is being published.The default thumbnail will be "
+"ignored if you set thumbnail manually.<b>Note:Please ensure that two "
+"thumbnail IDs are separated by '||'. <br />Example:1||2||3||4||5||6</b>"
+msgstr ""
+"请输入特色图片的ID。发布文章时，如果文章的分类包含在分类ID列表，那么将会调用"
+"和分类ID所处位置一样的特色图片ID自动设置文章的特色图片(特色图片ID位置要对应上"
+"面的分类ID)。如果你在发布文章前设置了特色图片或者没有给相应分类ID指定默认特色"
+"图片ID，那将不会自动插入。<b>注意：不同的特色图片ID，要用 || 隔开，例如：1||"
+"2||3||4||5||6</b>"
+
+#: itluren_posting_helpmate_robot.php:110
+msgid "Default Tags Set"
+msgstr "默认自动标签"
+
+#: itluren_posting_helpmate_robot.php:112
+msgid ""
+"Type tag fields.The system will set the tag fields whose position in this "
+"list is identical with the position of category ID selected in Categories "
+"IDs Set list above when post is being published.<b>Please ensure that two "
+"fields are separated by '||'. <br />Example:Girls,Boys,Fish||Google,Apple,"
+"Facebook,Twitter||Android,iOS</b>"
+msgstr ""
+"请输入预设标签。发布文章时，如果文章的分类包含在分类ID列表，那么将会调用和分"
+"类ID所处位置一样的标签块自动设置文章的标签。<b>不同的标签块请用 || 隔开，例"
+"如：Girls,Boys,Fish||Google,Apple,Facebook,Twitter||Android,iOS</b>"
+
+#: itluren_posting_helpmate_robot.php:116
+msgid "Save"
+msgstr "保存"
+
+#: itluren_posting_helpmate_robot.php:120
+msgid "Connecting me"
+msgstr "联系方式"
+
+#: itluren_posting_helpmate_robot.php:122
+msgid "Email：chenxiaoxun@gmail.com"
+msgstr "邮箱：chenxiaoxun@gmail.com"
+
+#: itluren_posting_helpmate_robot.php:123
+msgid "Website：www.itluren.com"
+msgstr "网站：www.itluren.com"
+
+#: itluren_posting_helpmate_robot.php:124
+msgid "QQ：734500780"
+msgstr "QQ：734500780"
+
+#: itluren_posting_helpmate_robot.php:128
+msgid "Donate me"
+msgstr "友情赞助"
+
+#: itluren_posting_helpmate_robot.php:130
+msgid "Paypal：chenxiaoxun@gmail.com"
+msgstr "Paypal：chenxiaoxun@gmail.com"
+
+#: itluren_posting_helpmate_robot.php:131
+msgid "Alipay：chenxiaoxun@gmail.com"
+msgstr "支付宝：chenxiaoxun@gmail.com"
+
+#: itluren_posting_helpmate_robot.php:135
+msgid "My Other Plugins"
+msgstr "我的插件"
+
+#: itluren_posting_helpmate_robot.php:137
+msgid ""
+"<a href=\"http://www.itluren.com/wp-itluren-comment-filter\" title=\"wp-"
+"itluren-comment-filter\" target=\"_blank\">wp_itluren_comment_filter</a>"
+msgstr ""
+"<a href=\"http://www.itluren.com/wp-itluren-comment-filter\" title=\"wp-"
+"itluren-comment-filter\" target=\"_blank\">wp_itluren_comment_filter</a>"
+
+#~ msgid "Email Address:"
+#~ msgstr "邮箱地址："
+
+#~ msgid "Website Page:"
+#~ msgstr "个人网站："
+
+#~ msgid "QQ Number:"
+#~ msgstr "QQ号码："
+
+#~ msgid "Google+ Account:"
+#~ msgstr "Google+帐号："
+
+#~ msgid "Gtalk Account:"
+#~ msgstr "Gtalk帐号："
+
+#~ msgid "Google+:chenxiaoxun@gmail.com"
+#~ msgstr "Google+:chenxiaoxun@gmail.com"
+
+#~ msgid "Gtalk:chenxiaoxun@gmail.com"
+#~ msgstr "Gtalk:chenxiaoxun@gmail.com"
